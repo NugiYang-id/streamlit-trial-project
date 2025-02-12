@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "corded-rope-450713-b7",
+  "private_key_id": "bc292266ae2bf2f387da71cb2eb096e1d8202531",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCabor2AXF4LMBG\nafJBYpOt0tuYc2WE2jwQCd06NHQl1G1PV1PQp4QUNi62Td4+abmEAEZgKefXTLgE\nehHRce8/+u6OQMBagGquNgXTDt0BqzX4iGNt5pDlI70XDXe3SM7VhIODsjPd2DN/\nEwOuVyjsARUh+mfzP2qPSnijgGQhP3M1U2eX7mZ5+w3lPzg63xOKrs3aWqAUdaPB\nY3kl5qdHN4H+43hDQDg6QRxbNI/e/w4I5EhRjoNo8fAT9CLntiSN5E+ayF6oD+hB\nUkocStdFQxuSbzCWW9xxmmqkLS3P3K+utRh8vWbuA3pxedtpYi939O+0PVs8V0rq\nWhZqWN1lAgMBAAECggEAGHGPTrV3RZ+Fto998BH/kIebyQNY6gCV+a7qBJS5XqSD\nQcfvhQsCyaUy2xmzp/rZiZZ2jTGM2AP1a4X7zIRFa4HXIQ6IM7r4R8dWwCut2R4F\nrqc9368bN52iyCOSU6EzVdIB9AYwlfhq3D4A+uciW8qnEuf87KBYyEHwGucPUkCm\n40VpMqbeub2CKXKprhL/lJV5H2je5RdBIn3cL3uioHwWOlWTEJ2mr5b8TunzyNws\nQukTAuTeuR+OSOLYSTzQhB9qJbsq/gnyfYD2++sC6u/3cJRL/aD8VfmTxI1kOVtw\nWL+XtasJya5Z7xy1uGmIAXeTKdylBbrxo9J/MkhCYQKBgQDXCoPpLEhjmAi8zIwu\n4pLWtFPUmKDFyNSLyuF/K+N+m+oJoLvnYNDRJhtx6okCmH29IV6tEr0lfaKTNFE9\nEbrzO66Etj7sZg8jJ1ddAteygJckzNgp6VwtXLH+XqJbtx+r9RKGzS3ufTOFZOed\n3jqEW54OB9aRob+PTrHDgPGhBQKBgQC32LJS/YYHzaYJbh4CkiWWNCCnBG+qrbMK\nup5Q1nXwAntJlCA9I2Wdv6+H1JtetgYXa0lRYeCJChvHso0PFaTfQM0HwNyrln+u\nJSq/eJln9Sy6nBx81XXY4FTseaKqfkaGvAMKL6y0I7yf6gLZF2emfuxbsYbw1YIW\nJfEwEIB44QKBgQCcHEUhDIXMz31gWnpWOyPwfF7zUo48p4wto+5KHTl9G4Eu1iIz\nWeSeQTThYStv1/ZITCZoLNdllSxmAzAKzolStPv/2jIZ+gl5MsFIg5zFOHcBPzia\nTJAfWlDZYigpvupeMn7tn5x9qySw7Uz8HW2L0tsOQoBxnuPrDG0eichgZQKBgBxI\nR9agjdfxeROGTzOSDBo5VrSa6BrXse16nBRPicEsgI7nLLZ7FYzZCkXZHTXKxtEf\nfh348rPiTDfCbhTd/YkizOfecZQsCORfb14ZTXBCtWjXz0IdDI4apLXkWHPmDS95\nCPauMuFbhg8Lzvhas2VXrUDF5L5z+hkyKRJ912XBAoGAFnWv/MtT4IC1wWbOGTRM\nZ767o3TVPXA36Fh9z39OrVeKrUoGz/GDziJeKQu37z3mPbNRhhrrnw5BtGwiXrnQ\nZPYRDKEveoU/dLBwHjbBFKqx4d51MIbG/rQsr87E5ytaSqj7/zXQzqriCPUgpUVl\nIxqqqmAhXsWMiXlOkEj36i0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "streamlit-app@corded-rope-450713-b7.iam.gserviceaccount.com",
+  "client_id": "103961852275871669131",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/streamlit-app%40corded-rope-450713-b7.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
